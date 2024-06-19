@@ -2,7 +2,7 @@
 
 **Estudiante de Ingeniería de Sistemas**
 
-[Email](josemanuelquevedovera0804@gmail.com) | [GitHub](https://github.com/Jose-Manuel-Quevedo-Vera.git) 
+[Email](josemanuelquevedovera0804@gmail.com) | [GitHub](https://github.com/Jose-Manuel-Quevedo-Vera/Jose-Manuel-Quevedo-Vera.git) 
 
 ---
 
