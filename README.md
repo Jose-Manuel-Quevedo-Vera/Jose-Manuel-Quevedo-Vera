@@ -1,8 +1,8 @@
-# Jairo Fernández
+# Jose Manuel Quevedo Vera
 
 **Estudiante de Ingeniería de Sistemas**
 
-[Email](mailto:jairof1565@gmail.com) | [GitHub](https://github.com/jairof15) 
+[Email](josemanuelquevedovera0804@gmail.com) | [GitHub](https://github.com/Jose-Manuel-Quevedo-Vera.git) 
 
 ---
 
